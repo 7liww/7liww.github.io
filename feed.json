@@ -1,0 +1,30 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Xxxlz的小小世界",
+    "subtitle": "做个有趣的小孩，开心至上，自由至上",
+    "icon": "https://7liww.github.io/images/favicon.ico",
+    "description": "欢迎来到西西的小窝，这里是奇奇怪怪的有趣事情！！",
+    "home_page_url": "https://7liww.github.io",
+    "items": [
+        {
+            "id": "https://7liww.github.io/computer-game/text/",
+            "url": "https://7liww.github.io/computer-game/text/",
+            "title": "九尾",
+            "date_published": "2023-09-22T14:32:59.000Z",
+            "content_html": "<p>“你要写九尾，但不能字字提九尾”</p>\n<p>” 要写一步一艰难，一段感叹，写夜唱，写微凉，写年少时期的年少轻狂，写十六岁的惊慌与坚强，写他也曾不见光，写成名之战的火舞一场，写铮铮傲骨少爷举世无双，写 21 年意气风发射天狼，写他清醒理智又有一副好皮囊，写他灵魂有火野心勃勃闯一闯写他也曾难掩失望，写他劝我别人行匆匆不知为谁忙，写我们未来不知怎样相遇去远方</p>\n<p>你该写他真诚善良嘴硬心软宽容体谅</p>\n<p>写他冷静理智审时度势分析实况</p>\n<p>写他敢打敢拼有鸿鹄凌云之志在胸膛</p>\n<p>写他赛前刻苦赛场高光操作亮眼秀翻全场</p>\n<p>封神火舞 刺客猫咪 从龙坑到高地的露娜</p>\n<p>英雄池深似海与队友完美配合和对手心理博弈</p>\n<p>不管前路多漫长他定会全力以赴不负众望</p>\n<p>少年明媚似阳光心怀热血似灿阳</p>\n<p>法刺之光金色的雨终将为他落一场 “</p>\n",
+            "tags": [
+                "小小电竞",
+                "hexo",
+                "game"
+            ]
+        },
+        {
+            "id": "https://7liww.github.io/hello-world/",
+            "url": "https://7liww.github.io/hello-world/",
+            "title": "",
+            "date_published": "2023-09-21T17:15:27.727Z",
+            "content_html": "<hr />\n<h2 id=\"titlehello-world\"><a class=\"anchor\" href=\"#titlehello-world\">#</a> title:hello world</h2>\n<p>Welcome to <span class=\"exturl\" data-url=\"aHR0cHM6Ly9oZXhvLmlvLw==\">Hexo</span>! This is your very first post. Check <span class=\"exturl\" data-url=\"aHR0cHM6Ly9oZXhvLmlvL2RvY3Mv\">documentation</span> for more info. If you get any problems when using Hexo, you can find the answer in <span class=\"exturl\" data-url=\"aHR0cHM6Ly9oZXhvLmlvL2RvY3MvdHJvdWJsZXNob290aW5nLmh0bWw=\">troubleshooting</span> or you can ask me on <span class=\"exturl\" data-url=\"aHR0cHM6Ly9naXRodWIuY29tL2hleG9qcy9oZXhvL2lzc3Vlcw==\">GitHub</span>.</p>\n<h2 id=\"quick-start\"><a class=\"anchor\" href=\"#quick-start\">#</a> Quick Start</h2>\n<h3 id=\"create-a-new-post\"><a class=\"anchor\" href=\"#create-a-new-post\">#</a> Create a new post</h3>\n<p><figure class=\"highlight bash\"><table><tr><td class=\"gutter\"><pre><span class=\"line\">1</span><br></pre></td><td class=\"code\"><pre><span class=\"line\">$ hexo new <span class=\"string\">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure></p>\n<p>More info: <span class=\"exturl\" data-url=\"aHR0cHM6Ly9oZXhvLmlvL2RvY3Mvd3JpdGluZy5odG1s\">Writing</span></p>\n<h3 id=\"run-server\"><a class=\"anchor\" href=\"#run-server\">#</a> Run server</h3>\n<p><figure class=\"highlight bash\"><table><tr><td class=\"gutter\"><pre><span class=\"line\">1</span><br></pre></td><td class=\"code\"><pre><span class=\"line\">$ hexo server</span><br></pre></td></tr></table></figure></p>\n<p>More info: <span class=\"exturl\" data-url=\"aHR0cHM6Ly9oZXhvLmlvL2RvY3Mvc2VydmVyLmh0bWw=\">Server</span></p>\n<h3 id=\"generate-static-files\"><a class=\"anchor\" href=\"#generate-static-files\">#</a> Generate static files</h3>\n<p><figure class=\"highlight bash\"><table><tr><td class=\"gutter\"><pre><span class=\"line\">1</span><br></pre></td><td class=\"code\"><pre><span class=\"line\">$ hexo generate</span><br></pre></td></tr></table></figure></p>\n<p>More info: <span class=\"exturl\" data-url=\"aHR0cHM6Ly9oZXhvLmlvL2RvY3MvZ2VuZXJhdGluZy5odG1s\">Generating</span></p>\n<h3 id=\"deploy-to-remote-sites\"><a class=\"anchor\" href=\"#deploy-to-remote-sites\">#</a> Deploy to remote sites</h3>\n<p><figure class=\"highlight bash\"><table><tr><td class=\"gutter\"><pre><span class=\"line\">1</span><br></pre></td><td class=\"code\"><pre><span class=\"line\">$ hexo deploy</span><br></pre></td></tr></table></figure></p>\n<p>More info: <span class=\"exturl\" data-url=\"aHR0cHM6Ly9oZXhvLmlvL2RvY3Mvb25lLWNvbW1hbmQtZGVwbG95bWVudC5odG1s\">Deployment</span></p>\n",
+            "tags": []
+        }
+    ]
+}
