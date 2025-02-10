@@ -10,40 +10,42 @@
         </author>
         <description>欢迎来到西西的小窝，这里是奇奇怪怪的有趣事情！！</description>
         <language>zh-CN</language>
-        <pubDate>Mon, 10 Feb 2025 17:27:59 +0800</pubDate>
-        <lastBuildDate>Mon, 10 Feb 2025 17:27:59 +0800</lastBuildDate>
-        <item>
-            <guid isPermalink="true">https://7liww.github.io/%E6%B5%8B%E8%AF%95-md/</guid>
-            <title>测试.md</title>
-            <link>https://7liww.github.io/%E6%B5%8B%E8%AF%95-md/</link>
-            <category term="课程" scheme="https://7liww.github.io/categories/Class/" />
-            <category term="测试" scheme="https://7liww.github.io/tags/%E6%B5%8B%E8%AF%95/" />
-            <pubDate>Mon, 10 Feb 2025 17:27:59 +0800</pubDate>
-            <description><![CDATA[ &lt;p&gt;这只是一个测试&lt;/p&gt;
- ]]></description>
-        </item>
+        <pubDate>Fri, 23 Aug 2024 10:50:00 +0800</pubDate>
+        <lastBuildDate>Fri, 23 Aug 2024 10:50:00 +0800</lastBuildDate>
         <item>
             <guid isPermalink="true">https://7liww.github.io/Class/Visual%20Studio%202019%20+%20Qt%205.12+%20Open%20cv%204.8/</guid>
             <title>Visual Studio 2019 + Qt 5.12+ Open cv 4.8</title>
             <link>https://7liww.github.io/Class/Visual%20Studio%202019%20+%20Qt%205.12+%20Open%20cv%204.8/</link>
-            <category term="人工智能实践" scheme="https://7liww.github.io/categories/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%AE%9E%E8%B7%B5/" />
+            <category term="课程" scheme="https://7liww.github.io/categories/Class/" />
             <category term="人工智能实践" scheme="https://7liww.github.io/tags/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%AE%9E%E8%B7%B5/" />
             <category term="QT" scheme="https://7liww.github.io/tags/QT/" />
             <pubDate>Fri, 23 Aug 2024 10:50:00 +0800</pubDate>
             <description><![CDATA[ &lt;h1 id=&#34;下载链接&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#下载链接&#34;&gt;#&lt;/a&gt; 下载链接&lt;/h1&gt;
 &lt;ol&gt;
-&lt;li&gt;校园网下载链接 &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cDovLzEwLjE0MC4zNC4xMzo1MDAwL3NoYXJpbmcvS1RhTkxLSW5P&#34;&gt;http://10.140.34.13:5000/sharing/KTaNLKInO&lt;/span&gt;&lt;/li&gt;
-&lt;li&gt;直接下载链接&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;校园网下载链接 &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cDovLzEwLjE0MC4zNC4xMzo1MDAwL3NoYXJpbmcvS1RhTkxLSW5P&#34;&gt;http://10.140.34.13:5000/sharing/KTaNLKInO&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;直接下载链接&lt;/p&gt;
+&lt;/li&gt;
 &lt;/ol&gt;
 &lt;ul&gt;
-&lt;li&gt;Visual Studio 2022 &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly92aXN1YWxzdHVkaW8ubWljcm9zb2Z0LmNvbS96aC1oYW5zL3ZzL2NvbW11bml0eS8=&#34;&gt;https://visualstudio.microsoft.com/zh-hans/vs/community/&lt;/span&gt;&lt;/li&gt;
-&lt;li&gt;Qt 5.12 &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9kb3dubG9hZC5xdC5pby9hcmNoaXZlL3F0LzUuMTIvNS4xMi4xMi8=&#34;&gt;https://download.qt.io/archive/qt/5.12/5.12.12/&lt;/span&gt;&lt;/li&gt;
-&lt;li&gt;Qt-vsaddin &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9kb3dubG9hZC5xdC5pby9hcmNoaXZlL3ZzYWRkaW4vMi45LjEv&#34;&gt;https://download.qt.io/archive/vsaddin/2.9.1/&lt;/span&gt;&lt;/li&gt;
-&lt;li&gt;OpenCV 4.80 &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9naXRodWIuY29tL29wZW5jdi9vcGVuY3YvcmVsZWFzZXM=&#34;&gt;https://github.com/opencv/opencv/releases&lt;/span&gt;&lt;/li&gt;
-&lt;/ul&gt;
+&lt;li&gt;
+&lt;p&gt;Visual Studio 2022 &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly92aXN1YWxzdHVkaW8ubWljcm9zb2Z0LmNvbS96aC1oYW5zL3ZzL2NvbW11bml0eS8=&#34;&gt;https://visualstudio.microsoft.com/zh-hans/vs/community/&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Qt 5.12 &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9kb3dubG9hZC5xdC5pby9hcmNoaXZlL3F0LzUuMTIvNS4xMi4xMi8=&#34;&gt;https://download.qt.io/archive/qt/5.12/5.12.12/&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Qt-vsaddin &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9kb3dubG9hZC5xdC5pby9hcmNoaXZlL3ZzYWRkaW4vMi45LjEv&#34;&gt;https://download.qt.io/archive/vsaddin/2.9.1/&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;OpenCV 4.80 &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9naXRodWIuY29tL29wZW5jdi9vcGVuY3YvcmVsZWFzZXM=&#34;&gt;https://github.com/opencv/opencv/releases&lt;/span&gt;&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;先装 Qt，再装 Qt-vsaddin，最后在 Visual Studio 中配置 Qt&lt;/p&gt;
 &lt;/blockquote&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
 &lt;p&gt;装软件过程省略 —— 此处记得，安装 QT 的时候记得勾选好 msvc_2017 还有相关的东西&lt;/p&gt;
 &lt;h1 id=&#34;配置qt&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#配置qt&#34;&gt;#&lt;/a&gt; 配置 QT&lt;/h1&gt;
 &lt;h2 id=&#34;配置系统变量&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#配置系统变量&#34;&gt;#&lt;/a&gt; 配置系统变量&lt;/h2&gt;
@@ -90,13 +92,17 @@
 &lt;/li&gt;
 &lt;/ol&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;包含目录处&lt;/strong&gt;添加 OpenCV 与 QT：&lt;br /&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;包含目录处&lt;/strong&gt;添加 OpenCV 与 QT：&lt;br /&gt;
 E:\OpenCV\opencv\build\include\opencv&lt;br /&gt;
 E:\OpenCV\opencv\build\include\opencv2&lt;br /&gt;
 E:\OpenCV\opencv\build\include&lt;br /&gt;
-D:\QT5.12\5.12.12\msvc2017_64\bin&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;库目录处&lt;/strong&gt;添加：&lt;br /&gt;
-E:\OpenCV\opencv\build\x64\vc16\lib&lt;/li&gt;
+D:\QT5.12\5.12.12\msvc2017_64\bin&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;库目录处&lt;/strong&gt;添加：&lt;br /&gt;
+E:\OpenCV\opencv\build\x64\vc16\lib&lt;/p&gt;
+&lt;/li&gt;
 &lt;/ul&gt;
 &lt;ol start=&#34;6&#34;&gt;
 &lt;li&gt;点击 “链接器”——“输入”，进行 OpenCV 的添加：添加内容可在目录 E:\OpenCV\opencv\build\x64\vc16\lib 下找到。&lt;br /&gt;
@@ -155,7 +161,7 @@ E:\OpenCV\opencv\build\x64\vc16\lib&lt;/li&gt;
         </item>
         <item>
             <guid isPermalink="true">https://7liww.github.io/computer-game/text/</guid>
-            <title>九尾2</title>
+            <title>九尾</title>
             <link>https://7liww.github.io/computer-game/text/</link>
             <category term="小小电竞" scheme="https://7liww.github.io/categories/computer-game/" />
             <category term="hexo" scheme="https://7liww.github.io/tags/hexo/" />

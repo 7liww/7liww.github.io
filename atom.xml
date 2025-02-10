@@ -8,35 +8,37 @@
     <author>
       <name>Xxxlz</name>
     </author>
-    <updated>2025-02-10T09:27:59.000Z</updated>
-    <entry>
-        <id>https://7liww.github.io/%E6%B5%8B%E8%AF%95-md/</id>
-        <title>测试.md</title>
-        <link rel="alternate" href="https://7liww.github.io/%E6%B5%8B%E8%AF%95-md/"/>
-        <content type="html">&lt;p&gt;这只是一个测试&lt;/p&gt;
-</content>
-        <category term="课程" scheme="https://7liww.github.io/categories/Class/" />
-        <category term="测试" scheme="https://7liww.github.io/tags/%E6%B5%8B%E8%AF%95/" />
-        <updated>2025-02-10T09:27:59.000Z</updated>
-    </entry>
+    <updated>2024-08-23T02:50:00.000Z</updated>
     <entry>
         <id>https://7liww.github.io/Class/Visual%20Studio%202019%20+%20Qt%205.12+%20Open%20cv%204.8/</id>
         <title>Visual Studio 2019 + Qt 5.12+ Open cv 4.8</title>
         <link rel="alternate" href="https://7liww.github.io/Class/Visual%20Studio%202019%20+%20Qt%205.12+%20Open%20cv%204.8/"/>
         <content type="html">&lt;h1 id=&#34;下载链接&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#下载链接&#34;&gt;#&lt;/a&gt; 下载链接&lt;/h1&gt;
 &lt;ol&gt;
-&lt;li&gt;校园网下载链接 &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cDovLzEwLjE0MC4zNC4xMzo1MDAwL3NoYXJpbmcvS1RhTkxLSW5P&#34;&gt;http://10.140.34.13:5000/sharing/KTaNLKInO&lt;/span&gt;&lt;/li&gt;
-&lt;li&gt;直接下载链接&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;校园网下载链接 &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cDovLzEwLjE0MC4zNC4xMzo1MDAwL3NoYXJpbmcvS1RhTkxLSW5P&#34;&gt;http://10.140.34.13:5000/sharing/KTaNLKInO&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;直接下载链接&lt;/p&gt;
+&lt;/li&gt;
 &lt;/ol&gt;
 &lt;ul&gt;
-&lt;li&gt;Visual Studio 2022 &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly92aXN1YWxzdHVkaW8ubWljcm9zb2Z0LmNvbS96aC1oYW5zL3ZzL2NvbW11bml0eS8=&#34;&gt;https://visualstudio.microsoft.com/zh-hans/vs/community/&lt;/span&gt;&lt;/li&gt;
-&lt;li&gt;Qt 5.12 &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9kb3dubG9hZC5xdC5pby9hcmNoaXZlL3F0LzUuMTIvNS4xMi4xMi8=&#34;&gt;https://download.qt.io/archive/qt/5.12/5.12.12/&lt;/span&gt;&lt;/li&gt;
-&lt;li&gt;Qt-vsaddin &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9kb3dubG9hZC5xdC5pby9hcmNoaXZlL3ZzYWRkaW4vMi45LjEv&#34;&gt;https://download.qt.io/archive/vsaddin/2.9.1/&lt;/span&gt;&lt;/li&gt;
-&lt;li&gt;OpenCV 4.80 &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9naXRodWIuY29tL29wZW5jdi9vcGVuY3YvcmVsZWFzZXM=&#34;&gt;https://github.com/opencv/opencv/releases&lt;/span&gt;&lt;/li&gt;
-&lt;/ul&gt;
+&lt;li&gt;
+&lt;p&gt;Visual Studio 2022 &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly92aXN1YWxzdHVkaW8ubWljcm9zb2Z0LmNvbS96aC1oYW5zL3ZzL2NvbW11bml0eS8=&#34;&gt;https://visualstudio.microsoft.com/zh-hans/vs/community/&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Qt 5.12 &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9kb3dubG9hZC5xdC5pby9hcmNoaXZlL3F0LzUuMTIvNS4xMi4xMi8=&#34;&gt;https://download.qt.io/archive/qt/5.12/5.12.12/&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Qt-vsaddin &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9kb3dubG9hZC5xdC5pby9hcmNoaXZlL3ZzYWRkaW4vMi45LjEv&#34;&gt;https://download.qt.io/archive/vsaddin/2.9.1/&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;OpenCV 4.80 &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9naXRodWIuY29tL29wZW5jdi9vcGVuY3YvcmVsZWFzZXM=&#34;&gt;https://github.com/opencv/opencv/releases&lt;/span&gt;&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;先装 Qt，再装 Qt-vsaddin，最后在 Visual Studio 中配置 Qt&lt;/p&gt;
 &lt;/blockquote&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
 &lt;p&gt;装软件过程省略 —— 此处记得，安装 QT 的时候记得勾选好 msvc_2017 还有相关的东西&lt;/p&gt;
 &lt;h1 id=&#34;配置qt&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#配置qt&#34;&gt;#&lt;/a&gt; 配置 QT&lt;/h1&gt;
 &lt;h2 id=&#34;配置系统变量&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#配置系统变量&#34;&gt;#&lt;/a&gt; 配置系统变量&lt;/h2&gt;
@@ -83,13 +85,17 @@
 &lt;/li&gt;
 &lt;/ol&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;包含目录处&lt;/strong&gt;添加 OpenCV 与 QT：&lt;br /&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;包含目录处&lt;/strong&gt;添加 OpenCV 与 QT：&lt;br /&gt;
 E:\OpenCV\opencv\build\include\opencv&lt;br /&gt;
 E:\OpenCV\opencv\build\include\opencv2&lt;br /&gt;
 E:\OpenCV\opencv\build\include&lt;br /&gt;
-D:\QT5.12\5.12.12\msvc2017_64\bin&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;库目录处&lt;/strong&gt;添加：&lt;br /&gt;
-E:\OpenCV\opencv\build\x64\vc16\lib&lt;/li&gt;
+D:\QT5.12\5.12.12\msvc2017_64\bin&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;库目录处&lt;/strong&gt;添加：&lt;br /&gt;
+E:\OpenCV\opencv\build\x64\vc16\lib&lt;/p&gt;
+&lt;/li&gt;
 &lt;/ul&gt;
 &lt;ol start=&#34;6&#34;&gt;
 &lt;li&gt;点击 “链接器”——“输入”，进行 OpenCV 的添加：添加内容可在目录 E:\OpenCV\opencv\build\x64\vc16\lib 下找到。&lt;br /&gt;
@@ -132,7 +138,7 @@ E:\OpenCV\opencv\build\x64\vc16\lib&lt;/li&gt;
 &lt;p&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L0NyZWFtYV8vYXJ0aWNsZS9kZXRhaWxzLzEwNzIzODQ3NQ==&#34;&gt;VS2019+OpenCV 安装与配置教程_visual studio 2019 与 opencv-CSDN 博客&lt;/span&gt;&lt;br /&gt;
 &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L21hcnNfeGlhb2xlaS9hcnRpY2xlL2RldGFpbHMvNzg3NTkwNDE=&#34;&gt; VS 配置 OpenCV 教程（超详细）_opencv 安装教程 - CSDN 博客&lt;/span&gt;&lt;/p&gt;
 </content>
-        <category term="人工智能实践" scheme="https://7liww.github.io/categories/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%AE%9E%E8%B7%B5/" />
+        <category term="课程" scheme="https://7liww.github.io/categories/Class/" />
         <category term="人工智能实践" scheme="https://7liww.github.io/tags/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%AE%9E%E8%B7%B5/" />
         <category term="QT" scheme="https://7liww.github.io/tags/QT/" />
         <updated>2024-08-23T02:50:00.000Z</updated>
@@ -152,7 +158,7 @@ E:\OpenCV\opencv\build\x64\vc16\lib&lt;/li&gt;
     </entry>
     <entry>
         <id>https://7liww.github.io/computer-game/text/</id>
-        <title>九尾2</title>
+        <title>九尾</title>
         <link rel="alternate" href="https://7liww.github.io/computer-game/text/"/>
         <content type="html">&lt;p&gt;“你要写九尾，但不能字字提九尾”&lt;/p&gt;
 &lt;p&gt;” 要写一步一艰难，一段感叹，写夜唱，写微凉，写年少时期的年少轻狂，写十六岁的惊慌与坚强，写他也曾不见光，写成名之战的火舞一场，写铮铮傲骨少爷举世无双，写 21 年意气风发射天狼，写他清醒理智又有一副好皮囊，写他灵魂有火野心勃勃闯一闯写他也曾难掩失望，写他劝我别人行匆匆不知为谁忙，写我们未来不知怎样相遇去远方&lt;/p&gt;
