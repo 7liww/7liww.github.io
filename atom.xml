@@ -11,18 +11,12 @@
     <updated>2025-02-10T10:09:06.604Z</updated>
     <entry>
         <id>https://7liww.github.io/interesting/%E6%9C%89%E8%B6%A3%E5%90%91%E6%B5%8B%E8%AF%95/</id>
-        <title></title>
+        <title>这是一个有趣向测试</title>
         <link rel="alternate" href="https://7liww.github.io/interesting/%E6%9C%89%E8%B6%A3%E5%90%91%E6%B5%8B%E8%AF%95/"/>
-        <content type="html">&lt;hr /&gt;
-&lt;p&gt;title：这是一个有趣向测试&lt;/p&gt;
-&lt;p&gt;categories：有趣向&lt;/p&gt;
-&lt;p&gt;tags：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;测试&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr /&gt;
-&lt;p&gt;如果可以，这是一个测试反正&lt;/p&gt;
+        <content type="html">&lt;p&gt;如果可以，这是一个测试反正&lt;/p&gt;
 </content>
+        <category term="有趣向" scheme="https://7liww.github.io/categories/interesting/" />
+        <category term="测试" scheme="https://7liww.github.io/tags/%E6%B5%8B%E8%AF%95/" />
         <updated>2025-02-10T10:09:06.604Z</updated>
     </entry>
     <entry>
