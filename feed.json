@@ -7,6 +7,17 @@
     "home_page_url": "https://7liww.github.io",
     "items": [
         {
+            "id": "https://7liww.github.io/%E6%B5%8B%E8%AF%95-md/",
+            "url": "https://7liww.github.io/%E6%B5%8B%E8%AF%95-md/",
+            "title": "测试.md",
+            "date_published": "2025-02-10T09:27:59.000Z",
+            "content_html": "<p>这只是一个测试</p>\n",
+            "tags": [
+                "课程",
+                "测试"
+            ]
+        },
+        {
             "id": "https://7liww.github.io/Class/Visual%20Studio%202019%20+%20Qt%205.12+%20Open%20cv%204.8/",
             "url": "https://7liww.github.io/Class/Visual%20Studio%202019%20+%20Qt%205.12+%20Open%20cv%204.8/",
             "title": "Visual Studio 2019 + Qt 5.12+ Open cv 4.8",

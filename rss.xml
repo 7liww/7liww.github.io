@@ -10,8 +10,18 @@
         </author>
         <description>欢迎来到西西的小窝，这里是奇奇怪怪的有趣事情！！</description>
         <language>zh-CN</language>
-        <pubDate>Fri, 23 Aug 2024 10:50:00 +0800</pubDate>
-        <lastBuildDate>Fri, 23 Aug 2024 10:50:00 +0800</lastBuildDate>
+        <pubDate>Mon, 10 Feb 2025 17:27:59 +0800</pubDate>
+        <lastBuildDate>Mon, 10 Feb 2025 17:27:59 +0800</lastBuildDate>
+        <item>
+            <guid isPermalink="true">https://7liww.github.io/%E6%B5%8B%E8%AF%95-md/</guid>
+            <title>测试.md</title>
+            <link>https://7liww.github.io/%E6%B5%8B%E8%AF%95-md/</link>
+            <category term="课程" scheme="https://7liww.github.io/categories/Class/" />
+            <category term="测试" scheme="https://7liww.github.io/tags/%E6%B5%8B%E8%AF%95/" />
+            <pubDate>Mon, 10 Feb 2025 17:27:59 +0800</pubDate>
+            <description><![CDATA[ &lt;p&gt;这只是一个测试&lt;/p&gt;
+ ]]></description>
+        </item>
         <item>
             <guid isPermalink="true">https://7liww.github.io/Class/Visual%20Studio%202019%20+%20Qt%205.12+%20Open%20cv%204.8/</guid>
             <title>Visual Studio 2019 + Qt 5.12+ Open cv 4.8</title>
