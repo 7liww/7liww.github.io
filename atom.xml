@@ -16,10 +16,10 @@
         <content type="html">&lt;div class=&#34;hbe hbe-container&#34; id=&#34;hexo-blog-encrypt&#34; data-wpm=&#34;抱歉, 这个密码看着不太对, 请再试试&#34; data-whm=&#34;抱歉, 这个文章不能被校验, 不过您还是能看看解密后的内容&#34;&gt;
   &lt;script id=&#34;hbeData&#34; type=&#34;hbeData&#34; data-hmacdigest=&#34;1b443e4fcae37916615e5d59ba8ab770847b6fffaa0a17201af17d3df6dc6f2d&#34;&gt;35491b8b0f47ea4a0ef705f23fbba88cbcf1329d591ed55d3a789e1da689e42b081fd0483e17afc3384f775fcfa946775c35c51129fd46a5730cc3bab247103f59b94806575c767f727226b9f56c53d9ade7476be3af07224feb6d4a158e94e34363541fa1130d972ced82617f9a4b62fefb5934dc6425107b090c21daddce54e8d82b0743f6f678e1cac08329a7ddb45627a1c58072b7c55b7beed988037427&lt;/script&gt;
   &lt;div class=&#34;hbe hbe-content&#34;&gt;
-    &lt;div class=&#34;hbe hbe-input hbe-input-default&#34;&gt;
-      &lt;input class=&#34;hbe hbe-input-field hbe-input-field-default&#34; type=&#34;password&#34; id=&#34;hbePass&#34;&gt;
-      &lt;label class=&#34;hbe hbe-input-label hbe-input-label-default&#34; for=&#34;hbePass&#34;&gt;
-        &lt;span class=&#34;hbe hbe-input-label-content hbe-input-label-content-default&#34;&gt;您好, 这里需要密码&lt;/span&gt;
+    &lt;div class=&#34;hbe hbe-input hbe-input-flip&#34;&gt;
+      &lt;input class=&#34;hbe hbe-input-field hbe-input-field-flip&#34; type=&#34;password&#34; id=&#34;hbePass&#34;&gt;
+      &lt;label class=&#34;hbe hbe-input-label hbe-input-label-flip&#34; for=&#34;hbePass&#34;&gt;
+        &lt;span class=&#34;hbe hbe-input-label-content hbe-input-label-content-flip&#34; data-content=&#34;您好, 这里需要密码&#34;&gt;您好, 这里需要密码&lt;/span&gt;
       &lt;/label&gt;
     &lt;/div&gt;
   &lt;/div&gt;
